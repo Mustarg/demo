@@ -1,10 +1,11 @@
 {
   "posts": [
-     {
-      “id”: “1234”,
-      “descripción”: “se me exploto la computadora mientras utilizaba el programa :(”,
-      “fechaAlta”: “hoy”,
-      “estado”: “0”,
-      “id.cliente”: “123”,
+    {
+      "id": 1,
+      "title": "hello"
     }
-]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
