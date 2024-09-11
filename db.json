@@ -4,9 +4,17 @@
       "id": 1234,
       "descripción": "se me exploto la computadora mientras utilizaba el programa :( ",
       "fechaAlta": "hoy",
-      "estado": 4,
+      "estado": 1,
       "id.cliente": 12
+    },
+    {
+      "id": 2345,
+      "descripción": "me dio un pantallazo azul cuando minimice la pestaña!",
+      "fechaAlta": "hoy",
+      "estado": 0,
+      "id.cliente": 16
     }
+      
   ],
   "profile": {
     "name": "typicode"
