@@ -1,8 +1,11 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": 1234,
+      "descripción": "se me exploto la computadora mientras utilizaba el programa :( ",
+      "fechaAlta": "hoy",
+      "estado": 4,
+      "id.cliente": 12”,
     }
   ],
   "profile": {
